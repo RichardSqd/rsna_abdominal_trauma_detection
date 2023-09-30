@@ -370,3 +370,4 @@ FodyWeavers.xsd
 segmentations/
 test_images/
 train_images/
+models/timm3d_res50d_unet4b_128_128_128_dsv2_flip12_shift333p7_gd1p5_bs4_lr3e4_20x50ep_fold0_best.pth
